@@ -2,23 +2,24 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+One night at (...)
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A fnaf fan game that haves you sit and survive against 5 animatronics in a warehouse
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+Basically the game will take place in one night from 12am to 6am at a warehouse, their will be 5 animatronics and the player while survive from them in a office (also a room in the front or behind them). The player will have tools like a flashlight and a Taser. The night will get harder with each hour (Ai levels will increase to max level of 14). I plan to code it in gamemaker.
+
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
-TODO, if applicable
+I am not planning to combine it with another final project.
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable
+I do not plan to collaborate.
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
