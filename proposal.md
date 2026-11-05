@@ -2,11 +2,11 @@
 
 ## What will (likely) be the title of your project?
 
-One night at (...)
+One night at (name pepending)
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A fnaf fan game that haves you sit and survive against 5 animatronics in a warehouse
+A fnaf fan game that haves you sit and survive against 5 animatronics in a warehouse or roam around.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -25,16 +25,25 @@ I do not plan to collaborate.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+-Animtronics created
+-Gameplay mechanics
+-Night system
+-Win condition
+-Map
+-camera
+-Defence mechanism
+-Ai
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+-Difficulty increasing throughout the night
+-shock system
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+-custom night(sit and survive)
+-more nights if possible
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+If I go for the sit and survival, I will use gamemaker to do so and find videos and guides to explain how to use and code in gamemaker while learning how to make a fnaf like game. If I go the free roam route, I plan to use roblox and learn its lua code and search up guides to making a free roam horror game. Also for the free roam one I need to atleast learn how to model before making the map and animatronics.
